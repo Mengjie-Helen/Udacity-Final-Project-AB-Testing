@@ -11,3 +11,6 @@ An experiment was conducted in which potential Udacity students were divided int
 6. Sixth,since in the most of circumstances, we can’t divert 100% of the traffic due to realistic implementations and risks, if we divert 80% of the traffic, the duration is 22 days. 
 7. Seventh, we move to the process of analyzing. We want to do the sanity check first to ensure that our experiment works correctly.
 8. Finally, after passing the sanity check, we can analyze our results about different metrics and then we can also use the sign test to validate results.
+
+Through comprehensive sanity check, result analyze and sign test, we can conclude there is a statistical significance, sign test significance in gross conversion. However, we cannot get the statistical significance, sign test significance in net conversion. And there are not practical significance in both conversions. Hence, a decrease in enrollment not coupled to an increase in students staying for requisite 14 days to trigger payment.
+Considering this, my recommendation is not to launch this change, but rather to pursue other experiments.
